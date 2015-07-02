@@ -1,0 +1,29 @@
+.success, .warning, .error, .info{
+display:inline-block;
+width:600px;
+border: 1px solid;
+margin: 10px auto;
+padding:10px;
+}
+
+.success
+{
+color: #4F8A10;
+background-color: #DFF2BF;
+}
+
+.warning
+{
+color: #9F6000;
+background-color: #FEEFB3;
+}
+
+.error{
+color: #D8000C;
+background-color: #FFBABA;
+}
+
+.info {
+color: #00529B;
+background-color: #BDE5F8;
+}

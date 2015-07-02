@@ -1,0 +1,11 @@
+#left_side{
+width:490px;
+margin:25px 20px 20px 0px;
+float:left;
+}
+
+#right_side{
+width:490px;
+float:left;
+margin:25px 0px 20px 0px;
+}
